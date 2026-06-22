@@ -1,0 +1,5 @@
+aws_region                = "us-east-1"
+project                   = "event-driven-retail-operations-pipeline"
+env                       = "dev"
+owner                     = "bnnteja"
+event_archive_bucket_name = "event-driven-retail-ops-bnnteja-dev"
